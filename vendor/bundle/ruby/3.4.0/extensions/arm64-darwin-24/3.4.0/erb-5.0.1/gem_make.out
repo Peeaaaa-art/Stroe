@@ -1,0 +1,18 @@
+current directory: /Users/hayashiakira/web_apps/store/vendor/bundle/ruby/3.4.0/gems/erb-5.0.1/ext/erb/escape
+/Users/hayashiakira/.rbenv/versions/3.4.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/hayashiakira/web_apps/store/vendor/bundle/ruby/3.4.0/gems/erb-5.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250707-96189-9364du sitelibdir\=./.gem.20250707-96189-9364du clean
+
+current directory: /Users/hayashiakira/web_apps/store/vendor/bundle/ruby/3.4.0/gems/erb-5.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250707-96189-9364du sitelibdir\=./.gem.20250707-96189-9364du
+compiling escape.c
+linking shared-object erb/escape.bundle
+
+current directory: /Users/hayashiakira/web_apps/store/vendor/bundle/ruby/3.4.0/gems/erb-5.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250707-96189-9364du sitelibdir\=./.gem.20250707-96189-9364du install
+/usr/bin/install -c -m 0755 escape.bundle ./.gem.20250707-96189-9364du/erb
+
+current directory: /Users/hayashiakira/web_apps/store/vendor/bundle/ruby/3.4.0/gems/erb-5.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250707-96189-9364du sitelibdir\=./.gem.20250707-96189-9364du clean
